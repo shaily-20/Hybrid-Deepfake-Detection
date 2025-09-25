@@ -22,6 +22,4 @@ This project presents a **hybrid deepfake detection framework** that leverages C
 
 ## Download Project
 
-You can download the full project files from Google Drive:
-
-[📂 Download the Deepfake Detection Project]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/18KO7cQpzoEToGY2YhK7x5dsDMszrS69V?usp=drive_link))
+[📂 Download the Deepfake Detection Project](https://drive.google.com/drive/folders/18KO7cQpzoEToGY2YhK7x5dsDMszrS69V?usp=drive_link)
