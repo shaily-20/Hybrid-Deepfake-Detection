@@ -17,27 +17,8 @@ This project presents a **hybrid deepfake detection framework** that leverages C
 - **MesoNet4:** Optimized for detecting low-resolution manipulations.  
 - **Eye Movement Analysis Module:** Detects physiological inconsistencies in facial behavior.  
 
-## Folder Structure
-
-deepfake-detection/
-│
-├── data/ # Datasets (Deepfake-and-Real, UADFV, FaceForensics++)
-├── models/ # Saved trained models
-├── src/ # Source code
-│ ├── train.py # Training script
-│ ├── evaluate.py # Evaluation script
-│ └── grad_cam.py # Grad-CAM visualization script
-├── requirements.txt # Python dependencies
-└── README.md
 
 
-## Installation
-
-1. Clone the repository:
-
-# git clone <your-repo-link>
-# cd deepfake-detection
-# pip install -r requirements.txt
 
 ## Download Project
 
